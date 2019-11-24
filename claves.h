@@ -1,0 +1,3 @@
+#define SECRET_SSID "CHACABUCO01"
+#define SECRET_PASS "copito1234"
+
